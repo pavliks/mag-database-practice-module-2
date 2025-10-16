@@ -1,14 +1,4 @@
-"airport_code","airport_name","city","coordinates","timezone"
-"SVO","{""en"": ""Sheremetyevo International Airport"", ""ru"": ""Шереметьево""}","{""en"": ""Moscow"", ""ru"": ""Москва""}","(37.4146,55.972599)","Europe/Moscow"
-"VKO","{""en"": ""Vnukovo International Airport"", ""ru"": ""Внуково""}","{""en"": ""Moscow"", ""ru"": ""Москва""}","(37.2615013123,55.5914993286)","Europe/Moscow"
-"DME","{""en"": ""Domodedovo International Airport"", ""ru"": ""Домодедово""}","{""en"": ""Moscow"", ""ru"": ""Москва""}","(37.90629959106445,55.40879821777344)","Europe/Moscow"
-
-"aircraft_code","model","range"
-"321","{""en"": ""Airbus A321-200"", ""ru"": ""Аэробус A321-200""}",5600
-"320","{""en"": ""Airbus A320-200"", ""ru"": ""Аэробус A320-200""}",5700
-"319","{""en"": ""Airbus A319-100"", ""ru"": ""Аэробус A319-100""}",6700
-
-"flight_no","departure_airport","arrival_airport","?column?","actual_arrival"
+"flight_no","departure_airport","arrival_airport","departure_airport_name","actual_arrival"
 "PG0639","DME","NYM","Домодедово","2017-08-15 15:00:00+00"
 "PG0646","RTW","DME","Саратов-Центральный","2017-08-15 14:58:00+00"
 "PG0131","URS","KUF","Курск-Восточный","2017-08-15 14:58:00+00"
@@ -29,6 +19,3 @@
 "PG0111","TJM","UCT","Рощино","2017-08-15 14:43:00+00"
 "PG0278","OVB","SVO","Толмачёво","2017-08-15 14:43:00+00"
 "PG0511","NAL","GOJ","Нальчик","2017-08-15 14:41:00+00"
-
-"airport_code","airport_name","city","coordinates","timezone"
-"DME","{""en"": ""Domodedovo International Airport"", ""ru"": ""Домодедово""}","{""en"": ""Moscow"", ""ru"": ""Москва""}","(37.90629959106445,55.40879821777344)","Europe/Moscow"
